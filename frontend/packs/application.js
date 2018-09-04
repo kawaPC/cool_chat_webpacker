@@ -1,3 +1,4 @@
-import "./application.css";
-
-document.body.insertAdjacentHTML("afterbegin", "hello world!");
+import "init";
+import "components/page/page";
+import "components/auth-form/auth-form";
+import "components/chat/chat";
